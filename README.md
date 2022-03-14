@@ -10,3 +10,4 @@
 * Calculadora de Idade
 * Identificação de Triângulos (teste lógico - Informa o tipo)
 * Conversor de Real para Dolar 
+* Conversor de Temperatura - Fahrenheit para Celcius.
