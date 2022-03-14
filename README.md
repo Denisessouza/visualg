@@ -4,7 +4,7 @@
       Profº Gustavo Guanabara. 
 <br>
 <br>
-:right_anger_bubble: Exercícios:
+:right_anger_bubble: **Exercícios:**
 
 * Calculadora de Hora trabalhada
 * Calculadora de Idade
