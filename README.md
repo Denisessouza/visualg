@@ -1,6 +1,6 @@
 # visualg
 **_Exercícios de Lógica de Programação_.** <br> <br>
-      **Exercícios propostos no Curso em video - Lógica de Programação** <br>
+      **Exercícios propostos no Curso em video - Lógica de Programação com Portugol** <br>
       Profº Gustavo Guanabara. 
 <br>
 <br>
